@@ -1,0 +1,53 @@
+C:\Users\nicho\Documents\3101 Labs\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.exe
+C:\Users\nicho\Documents\3101 Labs\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.deps.json
+C:\Users\nicho\Documents\3101 Labs\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.runtimeconfig.json
+C:\Users\nicho\Documents\3101 Labs\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.runtimeconfig.dev.json
+C:\Users\nicho\Documents\3101 Labs\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.dll
+C:\Users\nicho\Documents\3101 Labs\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.pdb
+C:\Users\nicho\Documents\3101 Labs\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Documents\3101 Labs\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.AssemblyInfoInputs.cache
+C:\Users\nicho\Documents\3101 Labs\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.AssemblyInfo.cs
+C:\Users\nicho\Documents\3101 Labs\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Documents\3101 Labs\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.dll
+C:\Users\nicho\Documents\3101 Labs\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.pdb
+C:\Users\nicho\Documents\3101 Labs\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.genruntimeconfig.cache
+C:\Users\nicho\Documents\3101 Labs\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.csproj.AssemblyReference.cache
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.exe
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.deps.json
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.runtimeconfig.json
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.runtimeconfig.dev.json
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.pdb
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\BoDi.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\Cucumber.Messages.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\Gherkin.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\SpecFlow.Internal.Json.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.AssemblyInfoInputs.cache
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.AssemblyInfo.cs
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.csproj.CopyComplete
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.pdb
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.genruntimeconfig.cache
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.csproj.AssemblyReference.cache
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator\bin\Debug\netcoreapp3.1\Moq.dll
