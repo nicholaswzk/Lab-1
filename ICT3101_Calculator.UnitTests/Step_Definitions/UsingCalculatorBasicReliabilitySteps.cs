@@ -21,11 +21,11 @@ namespace ICT3101_Calculator.UnitTests.Step_Definitions
             _result = _calculator.CurrentFailureIntensity(p0, p1, p2);
         }
 
-        [When(@"I have entered ""(.*)"", ""(.*)"" and ""(.*)"" into the calculator and press expected failures")]
-        public void WhenIHaveEnteredAndIntoTheCalculatorAndPressExpectedFailures(double p0, double p1, double p2)
-        {
-            _result = _calculator.AverageNumberofExpectedFailures(p0, p1, p2);
-        }
+        //[When(@"I have entered ""(.*)"", ""(.*)"" and ""(.*)"" into the calculator and press expected failures")]
+        //public void WhenIHaveEnteredAndIntoTheCalculatorAndPressExpectedFailures(double p0, double p1, double p2)
+        //{
+        //    _result = _calculator.AverageNumberofExpectedFailures(p0, p1, p2);
+        //}
 
         [Then(@"the failure intensity result should be ""(.*)""")]
         public void ThenTheFailureIntensityResultShouldBe(double p0)
