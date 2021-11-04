@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.IO;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
@@ -18,8 +19,11 @@ namespace ICT3101_Calculator.UnitTests.Selenium_Tests
             //Setup local Selenium WebDriver
             ChromeOptions option = new ChromeOptions();
             option.AddArgument("--headless");
-            _driver = new ChromeDriver(@"C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator.UnitTests\Selenium_Tests",option);
+            String path = Directory.GetCurrentDirectory() + @"\..\..\..\Selenium_Tests";
+            //_driver = new ChromeDriver(@"C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator.UnitTests\Selenium_Tests",option);
+            _driver = new ChromeDriver(path, option);
         }
+
 
         [Test]
         public void GoogleAdd_WhenAdding2and2_ResultEquals4() {
