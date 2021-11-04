@@ -484,6 +484,12 @@
           }
         }
       },
+      "Selenium.WebDriver.ChromeDriver/95.0.4638.5400": {
+        "type": "package",
+        "build": {
+          "build/Selenium.WebDriver.ChromeDriver.targets": {}
+        }
+      },
       "SpecFlow/3.9.22": {
         "type": "package",
         "dependencies": {
@@ -2631,6 +2637,24 @@
         "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
         "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.nuspec",
         "runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
+      ]
+    },
+    "Selenium.WebDriver.ChromeDriver/95.0.4638.5400": {
+      "sha512": "v2mGsXpp1OdGINGwDC9qZWZcVyfFya4Bh6JmA5Jg6KuLLlOmArpPWT7+VvNCLC0LVjGcvJ96V9ManQa8Xcffeg==",
+      "type": "package",
+      "path": "selenium.webdriver.chromedriver/95.0.4638.5400",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/DefinePropertiesChromeDriver.targets",
+        "build/Selenium.WebDriver.ChromeDriver.targets",
+        "driver/linux64/chromedriver",
+        "driver/mac64/chromedriver",
+        "driver/win32/chromedriver.exe",
+        "nupkg-icon.png",
+        "selenium.webdriver.chromedriver.95.0.4638.5400.nupkg.sha512",
+        "selenium.webdriver.chromedriver.nuspec"
       ]
     },
     "SpecFlow/3.9.22": {
@@ -6561,6 +6585,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Moq >= 4.16.1",
+      "Selenium.WebDriver.ChromeDriver >= 95.0.4638.5400",
       "SpecFlow >= 3.9.22",
       "SpecFlow.NUnit >= 3.9.22",
       "SpecFlow.NUnit.Runners >= 3.9.22",
@@ -6614,6 +6639,10 @@
           "Moq": {
             "target": "Package",
             "version": "[4.16.1, )"
+          },
+          "Selenium.WebDriver.ChromeDriver": {
+            "target": "Package",
+            "version": "[95.0.4638.5400, )"
           },
           "SpecFlow": {
             "target": "Package",
