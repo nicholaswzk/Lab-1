@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Text;
 using NUnit.Framework;
@@ -18,7 +19,9 @@ namespace ICT3101_Calculator.UnitTests.Selenium_Tests
             //Setup local Selenium WebDriver
             FirefoxOptions option = new FirefoxOptions();
             option.AddArgument("--headless");
-            _driver = new FirefoxDriver(@"C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator.UnitTests\Selenium_Tests", option);
+            String path = Directory.GetCurrentDirectory() + @"/../../../Selenium_Tests";
+            //_driver = new FirefoxDriver(@"C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator.UnitTests\Selenium_Tests", option);
+            _driver = new FirefoxDriver(path, option);
         }
 
         [Test]
