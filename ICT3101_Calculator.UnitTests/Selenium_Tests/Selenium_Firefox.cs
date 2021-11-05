@@ -19,7 +19,8 @@ namespace ICT3101_Calculator.UnitTests.Selenium_Tests
             //Setup local Selenium WebDriver
             FirefoxOptions option = new FirefoxOptions();
             option.AddArgument("--headless");
-            String path = Directory.GetCurrentDirectory() + @"/../../../Selenium_Tests";
+            String path = @"C:\Windows\Webdrivers";
+            //String path = Directory.GetCurrentDirectory() + @"/../../../Selenium_Tests";
             //_driver = new FirefoxDriver(@"C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator.UnitTests\Selenium_Tests", option);
             _driver = new FirefoxDriver(path, option);
         }
