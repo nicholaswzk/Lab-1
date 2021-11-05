@@ -19,10 +19,12 @@ namespace ICT3101_Calculator.UnitTests.Selenium_Tests
             //Setup local Selenium WebDriver
             ChromeOptions option = new ChromeOptions();
             option.AddArgument("--headless");
-            String path = @"C:\Windows\Webdrivers";
             //String path = Directory.GetCurrentDirectory() + @"/../../../Selenium_Tests";
             //_driver = new ChromeDriver(@"C:\Users\nicho\Documents\SIT_3101\Lab 1\ICT3101_Calculator.UnitTests\Selenium_Tests",option);
-            _driver = new ChromeDriver(path, option);
+            //_driver = new ChromeDriver(path, option);
+
+            //For Travis Only
+            _driver = new ChromeDriver( option);
         }
 
 
